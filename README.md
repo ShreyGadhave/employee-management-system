@@ -1,4 +1,4 @@
-### PRODIGY_FS_02 – Employee Management System
+### Employee Management System
 
 ## Task-02: Employee Management System
 This task involves developing a web application for managing employee records. The application should support the full set of CRUD (Create, Read, Update, Delete) operations and ensure secure and validated handling of employee data.
